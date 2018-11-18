@@ -1,0 +1,38 @@
+.header{
+	background-color:#26d0c9;
+ color:white;
+ height:80px;
+}
+
+.header-logo{
+	float:left;
+	font-size:32px;
+	padding:20px 40px;
+}
+
+.medium{
+	height:420px;
+}
+
+.footer{
+	background-color:#2f5167;
+ color:white;
+ height:80px;
+}
+
+.footer-logo{
+	float:left;
+	font-size:32px;
+ padding:20px 40px;
+}
+
+.footer-list{
+ float:right;
+ color:white;
+ padding:10px 20px;
+}
+
+a{
+color:white;
+padding:20px;
+}

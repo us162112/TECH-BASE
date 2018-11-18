@@ -1,0 +1,50 @@
+.header{
+	background-color:#26d0c9;
+ color:white;
+ height:80px;
+}
+
+.header-logo{
+	float:left;
+	font-size:32px;
+	padding:20px 40px;
+}
+
+li{
+ list-style:none;
+}
+
+.medium{
+	height:435px;
+}
+
+.login{
+	padding:20px 0px;
+}
+
+.new{
+ padding:20px 0px;
+}
+
+.footer{
+	background-color:#2f5167;
+ color:white;
+ height:80px;
+}
+
+.footer-logo{
+	float:left;
+	font-size:32px;
+ padding:20px 40px;
+}
+
+.footer-list{
+ float:right;
+ color:white;
+ padding:10px 20px;
+}
+
+a{
+color:white;
+padding:20px;
+}
